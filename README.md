@@ -1,1 +1,1 @@
-# exampleSolidityzkSNARK
+This repo contains code for a sample smart contract that implements a zero-knowledge proof (zk-SNARK) in the Solidity programming language for the Ethereum blockchain. This is just an example and may not be secure or suitable for production use. It's important to thoroughly test and audit smart contracts before deploying them on a blockchain network.
