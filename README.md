@@ -1,6 +1,3 @@
-For a GitHub README.md file focused on your zkSNARK smart contract, consider the following template. This README is crafted to explain the purpose of the contract, guide users through the setup, and clarify how to interact with the contract. It also includes sections for prerequisites, installation, usage, contributing, licensing, and acknowledgments:
-
-```markdown
 # zkSNARK Smart Contract Example
 
 This repository presents a zkSNARK (Zero-Knowledge Succinct Non-Interactive Argument of Knowledge) smart contract example implemented in Solidity for the Ethereum blockchain. The contract showcases a basic zero-knowledge proof mechanism, demonstrating how to verify a proof without revealing the underlying data.
