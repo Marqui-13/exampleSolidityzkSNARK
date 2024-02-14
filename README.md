@@ -28,25 +28,25 @@ npm install
 
 ## Usage
 
-Compile the smart contract using Truffle:
+### Compile the smart contract using Truffle:
 
 
 truffle compile
 
 
-Deploy the contract to Ganache or any Ethereum testnet using Truffle:
+### Deploy the contract to Ganache or any Ethereum testnet using Truffle:
 
 
 truffle migrate
 
 
-To interact with the contract, you can use Truffle's console:
+### To interact with the contract, you can use Truffle's console:
 
 
 truffle console
 
 
-Example of verifying a proof:
+### Example of verifying a proof:
 
 
 const contract = await ZkSnarkExample.deployed()
